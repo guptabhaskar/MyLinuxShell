@@ -1,0 +1,10 @@
+history
+cd
+history
+cd
+history
+history
+cd 
+history
+history
+cd
