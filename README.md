@@ -1,7 +1,9 @@
 # MyLinuxShell
 
 Options Handled
+
 A) Internal Commands :
+
 	1) cd: Change Directory
 			* cd ..: takes you one directory back
 			* cd ~: takes you to the home directory		
@@ -21,6 +23,7 @@ A) Internal Commands :
 	5) exit: Normal Exit.
 
 B) External Commands :
+
 	1) ls : print files and directories at pwd
 		Options-
 			-a : List all (including hidden) files and directories
